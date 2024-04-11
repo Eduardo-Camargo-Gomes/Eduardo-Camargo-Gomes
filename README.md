@@ -8,9 +8,10 @@
 ## GitHub Stats 📊
 
 <div style="display: flex;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Camargo-Gomes&theme=dracula&hide_border=false" style="flex: 1; margin-right: 5px; max-width: 45%;" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Camargo-Gomes&theme=dracula&hide_border=false" style="flex: 1; margin-left: 5px; max-width: 45%;" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Eduardo-Camargo-Gomes&theme=dracula&hide_border=false" style="width: 50%; margin-right: 5px;" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Eduardo-Camargo-Gomes&theme=dracula&hide_border=false" style="width: 50%; margin-left: 5px;" />
 </div>
+
 
 
 
